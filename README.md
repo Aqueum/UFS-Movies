@@ -6,11 +6,11 @@ https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
 - Martin Currie (Aqueum) - 26 May 2017
 
 # Files
-## moviesite.py
+## entertainment_center.py
 - **this is the file to run**
 - movie data entry and site launcher 
 
-## movies.py
+## media.py
 - the class module
 
 ## fresh_tomatoes.py
