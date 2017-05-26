@@ -1,15 +1,19 @@
-# How to use
-1. Ensure Python 3.4 or later installed
-2. Ensure all the files listed under 'Files' below are in the same folder
-3. Run the entertainment_center.py
-
-# Why?
-- A Udacity project:
-- Project: Movie Trailer Website
-- Programming Fundamentals and the Web
-- Udacity Full Stack Web Developer Nanodegree 
-https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
+# UFS-Movies
+- Udacity Full Stack - Movie Trailer Website
+- [Udacity Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) 
 - Martin Currie (Aqueum) - 26 May 2017
+
+# Getting Started
+1. Ensure [Python 3.4](https://www.python.org/downloads/) or later installed
+2. Ensure all the files listed under 'Files' below are in the same folder
+(click clone or download in [this](https://github.com/Aqueum/UFS-Movies) & follow instructions)
+3. [Run](http://pythoncentral.io/execute-python-script-file-shell/) the entertainment_center.py file
+
+# How to create your own movie site
+1. Edit the entertainment_center.py file
+2. change the media.Movie lines
+[your_movie] = media.Movie("[your movie title]", "[your movie storyline]", "[link to your movie poster]", "[link to your movie's trailer]")
+3. add as many movies as you like in the above format
 
 # Files
 ## entertainment_center.py
@@ -27,3 +31,14 @@ https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
 # GitHub
 this being my first time using PyCharm with GitHub:
 - I botched the commit messages when committing multiple files at once so please ignore early messages
+
+# Contributing
+This is an assessed project, so I'd probably get in trouble for accepting external advice.
+Feel free to fork as long as you're not using this as part of your own coursework.
+
+# Code Status
+Can Udacity add a badge here..?
+
+# License
+Creative Commons Attribution-NonCommercial- NoDerivs 3.0 License (http://creativecommons.org/licenses/by-nc-nd/4.0 and successor locations for such license)
+was given in [Udacity's ToS](https://www.udacity.com/legal)
