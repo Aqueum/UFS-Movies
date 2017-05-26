@@ -2,6 +2,7 @@ import webbrowser
 
 
 class Movie:
+    """ a class to describe movies and launch their trailers """
 
     def __init__(self, title, storyline, poster, trailer):
         self.title = title
