@@ -6,7 +6,7 @@ shallow_grave = movies.Movie("Shallow Grave", "Bad housemates",
                              "https://upload.wikimedia.org/wikipedia/en/2/23/Shallow.jpg",
                              "https://www.youtube.com/watch?v=HbxNej_MJlw")
 
-three_colours_blue = movies.Movie("Three Colours: Blue", "Post-tragic emotional liberty",
+three_colours_blue = movies.Movie("Three Colours: Blue", "Liberty post-tragedy",
                                   "https://upload.wikimedia.org/wikipedia/en/2/2c/Bluevidcov.jpg",
                                   "https://www.youtube.com/watch?v=Hxu6my_t4pM")
 
