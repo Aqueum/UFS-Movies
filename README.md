@@ -1,4 +1,10 @@
+# How to use
+1. Ensure Python 3.4 or later installed
+2. Ensure all the files listed under 'Files' below are in the same folder
+3. Run the entertainment_center.py
+
 # Why?
+- A Udacity project:
 - Project: Movie Trailer Website
 - Programming Fundamentals and the Web
 - Udacity Full Stack Web Developer Nanodegree 
